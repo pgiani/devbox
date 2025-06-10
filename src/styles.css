@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.product-list-item {
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+.product-list-item > span {
+  flex: 1;
+}
