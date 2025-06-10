@@ -12,7 +12,7 @@ Before you begin, ensure you have the following installed:
 - **Live Preview Extension**  
    Install from: [Live Preview - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 
-> **Important:** If you have GitHub Copilot or any other AI coding assistant enabled, please disable them for the duration of this challenge.
+  ### Important: If you have GitHub Copilot or any other AI coding assistant enabled, please disable them for the duration of this challenge.
 
 ## Getting Started
 
