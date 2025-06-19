@@ -9,9 +9,7 @@ Before you begin, ensure you have the following installed:
 - **Node.js** (https://nodejs.org/)
 - **Yarn** (https://classic.yarnpkg.com/en/docs/install/)
 - **Visual Studio Code** (https://code.visualstudio.com/)
-- **Live Preview Extension**  
-   Install from: [Live Preview - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
-
+ 
   ### Important: If you have GitHub Copilot or any other AI coding assistant enabled, please disable them for the duration of this challenge.
 
 ## Getting Started
@@ -38,10 +36,7 @@ Before you begin, ensure you have the following installed:
     - Open `src/App.jsx` in the editor.
 
 5. **Open Live Preview**
-    - Install Microsoft's extension 'Live Preview' if you haven't already.
-    - Open the Command Palette (`CTRL+SHIFT+P` or `CMD+SHIFT+P` on Mac).
-    - Search for `Simple Browser: Show` and select it.
-    - In the Simple Browser, navigate to the URL shown in your terminal (e.g., `http://localhost:5173/`).
+    - In the  rowser, navigate to the URL shown in your terminal (e.g., `http://localhost:5173/`).
 
 ## Your Setup Should Look Like
 
