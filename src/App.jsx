@@ -19,7 +19,7 @@ export default function App() {
   return (
     <div className="App">
       {/* TASK 1 */}
-      {/* <h1> Joe Pizza </h1>*/}
+       <h1> Joe Pizza </h1> 
       {/*<h2>Total price of pizza in Euros:</h2> */}
       {/* EUR: {pizzaPrice()} */}
       {/* TASK 2 */}
