@@ -2,7 +2,7 @@ export default [
   {
     type: "salad",
     name: "basic vegetable",
-    ingredients: ["tomato", "cucumber", "salt", "olive oil"],
+    toppings: ["tomato", "cucumber", "salt", "olive oil"],
   },
   {
     type: "pizza",
@@ -13,6 +13,7 @@ export default [
   {
     type: "bread",
     shape: "round",
+    size: "medium",
     grain: "rye",
   },
   {
@@ -27,6 +28,7 @@ export default [
   },
   {
     type: "sausage",
+    size: "medium",
     meat: "pork",
     length: 10,
   },
